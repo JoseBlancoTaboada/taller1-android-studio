@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EjemploSimple</string>
+    <string name="hello_world">Hello!</string>
+    <string name="saludo">Hola desde Android</string>
+    <string name="label_dato">Dato:</string>
+    <string name="hint_dato">Ingresa un valor</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="formato_mensaje">Mensaje: %1$s</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConvertidordeMoneda</string>
+    <string name="titulo_convertidor">Convertidor de Moneda</string>
+    <string name="lbl_monto">Monto:</string>
+    <string name="hint_monto">0.00</string>
+    <string name="lbl_origen">De:</string>
+    <string name="lbl_destino">A:</string>
+    <string name="boton_convertir">Convertir</string>
+    <string name="formato_resultado">%1$.2f %2$s = %3$.2f %4$s</string>
+</resources>

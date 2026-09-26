@@ -1,0 +1,19 @@
+build/
+.gradle/
+.kotlin/
+.cxx/
+.externalNativeBuild/
+captures/
+.idea/
+*.iml
+.DS_Store
+local.properties
+
+# Los APK van en Releases, no en el código
+*.apk
+*.aab
+output-metadata.json
+
+# Las claves de firma nunca van al repositorio
+*.jks
+*.keystore

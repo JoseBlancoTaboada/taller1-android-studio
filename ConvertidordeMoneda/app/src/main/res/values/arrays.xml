@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="monedas">
+        <item>USD</item>
+        <item>COP</item>
+        <item>EUR</item>
+        <item>MXN</item>
+        <item>GBP</item>
+    </string-array>
+</resources>
